@@ -4,4 +4,6 @@ title: Markdown page example
 
 # Markdown page example
 
-You don't need React to write simple standalone pages.
+# My First Markdown page
+
+This is a Markdown page
